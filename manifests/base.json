@@ -1,14 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Slack2Browser",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Opens Slack links in browser instead of the desktop app",
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "slack2browser@josesiqueira",
-      "strict_min_version": "128.0"
-    }
-  },
   "content_scripts": [
     {
       "matches": [

@@ -1,0 +1,15 @@
+{
+  "name": "slack2browser",
+  "version": "1.0.0",
+  "description": "Opens Slack links in browser instead of the desktop app",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "package": "node scripts/package.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josesiqueira/Slack2Browser"
+  },
+  "author": "Jose Siqueira",
+  "license": "MIT"
+}
