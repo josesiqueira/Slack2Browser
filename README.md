@@ -1,6 +1,6 @@
 # Slack2Browser
 
-Opens Slack links in your browser instead of the desktop app.
+Opens Slack links directly in your browser instead of dealing with slack begging you to install their desktop app.
 
 ## Install from Store
 
