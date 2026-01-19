@@ -70,23 +70,9 @@ Slack2Browser/
 
 ```bash
 npm run build      # Build for both browsers
-npm run package    # Build + create zip files for store submission
+npm run package    # Build + create zip files
 ```
-
-## Publishing
-
-### Chrome Web Store
-
-1. Run `npm run package`
-2. Go to [Chrome Developer Dashboard](https://chrome.google.com/webstore/devconsole)
-3. Upload `dist/slack2browser-chrome.zip`
-
-### Firefox Add-ons (AMO)
-
-1. Run `npm run package`
-2. Go to [Firefox Add-on Developer Hub](https://addons.mozilla.org/developers/)
-3. Upload `dist/slack2browser-firefox.zip`
 
 ## License
 
-MIT
+GNU GPL v3
